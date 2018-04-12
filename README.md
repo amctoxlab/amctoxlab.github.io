@@ -1,8 +1,8 @@
 ## 서울아산병원 중독분석실 AMC_Toxlab
 
-You can use the [editor on GitHub](https://github.com/amctoxlab/amctoxlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+급성 중독환자의 독성물질 확인하여 정확한 진단과 적절한 치료를 제공하고 집중치료/보존적처치/장기적치료/퇴원의 결정근거를 제공합니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+추정 독성물질이 분석 가능한지, 의뢰방법과 시료준비, 배송방법 및 결과를 의료진(의뢰자 및 담당 전문의)에게 신속하게 전달하고 분석전문가들과 의료진간 정보제공을 위해 SNS(카카오톡)을 제공합니다.
 
 ### Markdown
 

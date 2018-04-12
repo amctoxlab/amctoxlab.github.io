@@ -7,34 +7,28 @@
 ### 분석의뢰 고려 시
 
 카카오kakaotalk 오픈채팅방 그룹채팅 #서울아산#아산병원#중독분석#중독분석실#Toxlab#toxlab#AMC_Toxlab#amctoxlab 을 검색하여 들어오시면 분석전문가들이 상담해드립니다.
-오픈채팅방 이름: AMC_Toxlab년월일생성횟수, 예>AMC_Toxlab180411**
-
-#서울아산#아산병원#중독분석#중독분석실#Toxlab#toxlab#AMC_Toxlab#amctoxlab 
+# 오픈채팅방 이름: AMC_Toxlab년월일생성횟수, 예>AMC_Toxlab180411**
+# 해시태그 #서울아산#아산병원#중독분석#중독분석실#Toxlab#toxlab#AMC_Toxlab#amctoxlab 
 
 ```markdown
-Syntax highlighted code block
+분석시료 
 
-# Header 1
-## Header 2
-### Header 3
+# 필수기본: 혈액 EDTA(보라색 뚜껑) 튜브 2개로 4 mL이상+ 소변(두껑닫을 수 있는 컵, 객담컵 등) 200 mL 가량
+# 음독시(가능한 경우): 위액
+# 환자가 노출된 물질 
 
-- Bulleted
-- List
+배송방법
 
-1. Numbered
-2. List
+# 방법: 병원간 구급차(129) - 분석실에서 비용 처리
+# 주소: 서울시 송파구 올림픽로43길 88 서울아산병원 응급센터(서관 1F)
+# 수취인: 오범진 010-9259-6454
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 추가정보
 
-### Jekyll Themes
+국립의료원 중앙응급의료센터 e-gen.or.kr 로 들어가셔서 신청하시면 추가적인 지원을 받으실 수 있습니다.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amctoxlab/amctoxlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 서울아산병원 중독분석실 표준물질목록(정확한 확인 및 농도분석에 필수적)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
